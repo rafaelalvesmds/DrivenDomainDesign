@@ -1,0 +1,15 @@
+C:\Users\rafae\Desktop\paymentContext\PaymentContext.Domain\bin\Debug\net5.0\paymentcontext.domain.deps.json
+C:\Users\rafae\Desktop\paymentContext\PaymentContext.Domain\bin\Debug\net5.0\paymentcontext.domain.dll
+C:\Users\rafae\Desktop\paymentContext\PaymentContext.Domain\bin\Debug\net5.0\ref\paymentcontext.domain.dll
+C:\Users\rafae\Desktop\paymentContext\PaymentContext.Domain\bin\Debug\net5.0\paymentcontext.domain.pdb
+C:\Users\rafae\Desktop\paymentContext\PaymentContext.Domain\obj\Debug\net5.0\paymentcontext.domain.csproj.AssemblyReference.cache
+C:\Users\rafae\Desktop\paymentContext\PaymentContext.Domain\obj\Debug\net5.0\paymentcontext.domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Desktop\paymentContext\PaymentContext.Domain\obj\Debug\net5.0\paymentcontext.domain.AssemblyInfoInputs.cache
+C:\Users\rafae\Desktop\paymentContext\PaymentContext.Domain\obj\Debug\net5.0\paymentcontext.domain.AssemblyInfo.cs
+C:\Users\rafae\Desktop\paymentContext\PaymentContext.Domain\obj\Debug\net5.0\paymentcontext.domain.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Desktop\paymentContext\PaymentContext.Domain\obj\Debug\net5.0\paymentcontext.domain.dll
+C:\Users\rafae\Desktop\paymentContext\PaymentContext.Domain\obj\Debug\net5.0\ref\paymentcontext.domain.dll
+C:\Users\rafae\Desktop\paymentContext\PaymentContext.Domain\obj\Debug\net5.0\paymentcontext.domain.pdb
+C:\Users\rafae\Desktop\paymentContext\PaymentContext.Domain\bin\Debug\net5.0\paymentcontext.shared.dll
+C:\Users\rafae\Desktop\paymentContext\PaymentContext.Domain\bin\Debug\net5.0\paymentcontext.shared.pdb
+C:\Users\rafae\Desktop\paymentContext\PaymentContext.Domain\obj\Debug\net5.0\paymentcontext.domain.csproj.CopyComplete
