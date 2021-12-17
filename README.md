@@ -1,4 +1,4 @@
-# DDD (Driven Domain Design)
+# DDD ( Driven Domain Design )
 
 "Conjunto de princípios com foco em domínio, exploração de modelos de formas criativas e definir e falar a linguagem Ubíqua, baseado no contexto delimitado.”
 
